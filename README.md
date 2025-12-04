@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzVlcnc2ZzFoNW82dTg4Y3duOXIxNDRvNjdkNDE1MGJ4MjJhdmsycSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/Nx0rz3jtxtEre/200.gif" width="100%">
+</div>
 # Sup! I'm Rafael Carrilho, nice to meet you🤙
 <h3><p align='center'> Computer Science Student at Cesar School | GameDev | Learning Unity, C#, C, Lua/Luau and JavaScript</p>
 </h3>
