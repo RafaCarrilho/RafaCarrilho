@@ -5,7 +5,7 @@
 # Hello There! <sub><sup><sup>~~General Kenobi!~~</sup></sup></sup>  
 Me chamo **Rafael Carrilho**!
 
-<h3 align="center"> Sou aluno de Ciência da Computação na CESAR School, atualmente cursando o 1° período </h3>
+<h3 align="center"> Sou aluno de Ciência da Computação na CESAR School, atualmente cursando o 2° período </h3>
 
 ---
 
